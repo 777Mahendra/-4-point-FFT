@@ -1,0 +1,4 @@
+#  4-point FFT
+
+1. Implement Radix-2  4 point FFT with streaming input, using Verilog. Streaming input means, in one clock cycle you will receive 8bit real and 8-bit imaginary input data. We need 4 clock cycles to receive 4 samples.  
+2. Verify verilog output with MATLAB code output.
